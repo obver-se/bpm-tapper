@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bpm-tapper/static/css/main.e0d2243a.chunk.css",
-    "main.js": "/bpm-tapper/static/js/main.eb056aec.chunk.js",
-    "main.js.map": "/bpm-tapper/static/js/main.eb056aec.chunk.js.map",
+    "main.js": "/bpm-tapper/static/js/main.8e66ad82.chunk.js",
+    "main.js.map": "/bpm-tapper/static/js/main.8e66ad82.chunk.js.map",
     "runtime-main.js": "/bpm-tapper/static/js/runtime-main.a0dad0dc.js",
     "runtime-main.js.map": "/bpm-tapper/static/js/runtime-main.a0dad0dc.js.map",
     "static/js/2.73039564.chunk.js": "/bpm-tapper/static/js/2.73039564.chunk.js",
     "static/js/2.73039564.chunk.js.map": "/bpm-tapper/static/js/2.73039564.chunk.js.map",
     "index.html": "/bpm-tapper/index.html",
-    "precache-manifest.7b70f1ef322f5b72ef2cf1a47a2db6cf.js": "/bpm-tapper/precache-manifest.7b70f1ef322f5b72ef2cf1a47a2db6cf.js",
+    "precache-manifest.b85d820f105984d785808e81308a0a59.js": "/bpm-tapper/precache-manifest.b85d820f105984d785808e81308a0a59.js",
     "service-worker.js": "/bpm-tapper/service-worker.js",
     "static/css/main.e0d2243a.chunk.css.map": "/bpm-tapper/static/css/main.e0d2243a.chunk.css.map",
     "static/js/2.73039564.chunk.js.LICENSE.txt": "/bpm-tapper/static/js/2.73039564.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a0dad0dc.js",
     "static/js/2.73039564.chunk.js",
     "static/css/main.e0d2243a.chunk.css",
-    "static/js/main.eb056aec.chunk.js"
+    "static/js/main.8e66ad82.chunk.js"
   ]
 }
