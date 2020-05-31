@@ -49,7 +49,7 @@ class BPMTapper extends React.Component {
 class BPMOutput extends React.Component {
   calculateBPM() {
     var avgMs = (this.props.tapData.lastTap - this.props.tapData.firstTap) / 
-                 this.props.tapData.tapCount;
+                (this.props.tapData.tapCount - 1);
 
     return Math.round(60 * 1000 / avgMs)
   }
