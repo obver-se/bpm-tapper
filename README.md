@@ -1,3 +1,9 @@
+# bpm-tapper
+This webapp is designed to allow the user to input a BPM real time and get an estimation of the BPM.
+
+
+# Boilerplate Comments Below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
